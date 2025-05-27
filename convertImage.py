@@ -8,7 +8,6 @@ from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseUpload
 
-# Configuration
 SPREADSHEET_NAME = "Trends"
 SHEET_NAME = "Sheet 15"
 WEBP_COL_INDEX = 4      # Column E (0-based index)

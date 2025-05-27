@@ -28,4 +28,4 @@ jobs:
 
       - name: Run image conversion and upload script
         run: |
-          python convert_webp_to_png_and_upload.py
+          python convertImage.py

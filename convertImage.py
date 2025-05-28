@@ -9,7 +9,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseUpload
 
 SPREADSHEET_NAME = "Trends"
-SHEET_NAME = "Sheet 15"
+SHEET_NAME = "Sheet15"
 WEBP_COL_INDEX = 4      # Column E (0-based index)
 OUTPUT_COL_INDEX = 7    # Column H (0-based index)
 DRIVE_FOLDER_ID = "1ORg8PHtVVVXION8Io7No62pssxkgF5C6"
